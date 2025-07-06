@@ -5,7 +5,9 @@ Building a Virtual Cybersecurity Laboratory and Conducting Android Forensics Inv
 
 ## Project Expectation
 I. Set up a fully functional virtual cybersecurity lab
+
 II. Analyze an Android forensic image and produce a professional investigation report
+
 III Deploy a virtual firewall to simulate an enterprise-grade network security Environment.
 
 ## PROJECT SCOPE
