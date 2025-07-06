@@ -30,7 +30,8 @@ The following files were downloaded
 4. Autopsy 
 5. 7zip
 6. Android image provided
-7. OPNsense Iso
+7. OPNsense iso
+8. Pfsense iso
 
 VMware 17 Workstation was downloaded and installed.
 Two virtual machines were created
@@ -45,6 +46,10 @@ Storage: 60 GB
 
 Internal virtual networking between VMs was established by assigning local Ip addresses to each vm.
 Connectivity was tested by pinging the ip addresses of each guest operating system from both VMS.
+
+see screenshots below 
+
+
 
 ## Part II – Android Forensics Analysis and Reporting
 
@@ -66,6 +71,9 @@ SMS messages, call logs, contact lists
 Application usage history
 
 Files, images, browser history, crypto wallets, deleted content
+see screenshots below 
+
+
 
 Please see attached.pdf file for the comprehensive report.
 
@@ -76,9 +84,15 @@ To enhance the lab environment with a virtual firewall for traffic inspection an
 
 The following activities were carried out on the VMware
 
-Create a virtual pfSense or OPNsense appliance Configure:
+both OPNsense iso and Pfsense were downloaded and extracted
+
+A virtual pfSense appliance was created and the following configured. Configure:
 WAN and LAN interfaces
 NAT, DHCP, and DNS as needed
 Basic firewall rules (e.g., port filtering)
-Connect the Kali and Windows machines to route traffic through the firewall
-Test filtering and logging functionality; document configuration steps and output
+The Kali and Windows VM machines were connected to route traffic through the firewall
+Filtering was also done.
+
+see screenshots below 
+
+
