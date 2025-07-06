@@ -37,8 +37,6 @@ The following files were downloaded
 8. Pfsense iso
 
    See Screenshots below
-
-![IMG_20250626_202340_13](https://github.com/user-attachments/assets/c32d3781-690a-44d5-bc7b-4374cdec459a)
 ![Screenshot_20250702-204928](https://github.com/user-attachments/assets/a724f525-8ff7-42a4-ad34-fe84fe69dc80)
 ![Screenshot_20250702-203257](https://github.com/user-attachments/assets/0e15065d-0cb5-465e-afc2-834e006f0a77)
 ![Screenshot_20250702-203237](https://github.com/user-attachments/assets/fc9d015d-b227-48cd-abd5-6b60a2662d98)
