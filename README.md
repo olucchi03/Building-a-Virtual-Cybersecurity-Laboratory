@@ -73,7 +73,7 @@ Please see attached.pdf file for the comprehensive report.
 Objective:
 To enhance the lab environment with a virtual firewall for traffic inspection and segmentation.
 
-Tasks:
+The following activities were carried out on the VMware
 
 Create a virtual pfSense or OPNsense appliance Configure:
 WAN and LAN interfaces
