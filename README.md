@@ -37,7 +37,8 @@ The following files were downloaded
 8. Pfsense iso
 
    See Screenshots below
-![Screenshot_20250702-204928](https://github.com/user-attachments/assets/a724f525-8ff7-42a4-ad34-fe84fe69dc80)
+
+![Screenshot_20250702-204928](https://github.com/user-attachments/assets/cef97d41-ebac-4ab9-95be-09bbcdf6d372)
 ![Screenshot_20250702-203257](https://github.com/user-attachments/assets/0e15065d-0cb5-465e-afc2-834e006f0a77)
 ![Screenshot_20250702-203237](https://github.com/user-attachments/assets/fc9d015d-b227-48cd-abd5-6b60a2662d98)
 ![Screenshot_20250702-205111](https://github.com/user-attachments/assets/d48a9a34-a5d2-4bd6-9f73-4320ad43a692)
@@ -76,8 +77,7 @@ Internal virtual networking between VMs was established by assigning local Ip ad
 Connectivity was tested by pinging the ip addresses of each guest operating system from both VMS.
 
 see screenshots below 
-![IMG_20250626_202340_13](https://github.com/user-attachments/assets/8af3a4f3-80d4-4d94-babb-3559bd1d229d)
- ![IMG-20250706-WA0017_4](https://github.com/user-attachments/assets/cd787ec0-66b9-423f-9726-bb45ab9de75b) 
+![IMG_20250626_202340_13](https://github.com/user-attachments/assets/2247f489-6fab-4c4d-bcaf-cb717c7be9c6)
  ![1](https://github.com/user-attachments/assets/103420fa-1e96-4a3c-96ae-b8641fe149d9)
 ![2](https://github.com/user-attachments/assets/e495adec-ba14-4542-8872-7e965df41b4e)
 ![3](https://github.com/user-attachments/assets/4e242c82-65ca-490d-a87a-72492e37d640)
@@ -94,7 +94,7 @@ see screenshots below
 attachments/assets/58c6a7b9-0821-4330-8788-48f8fafe8d95)
 ![Screenshot_20250706-205440_1](https://github.com/user-attachments/assets/de42fd95-9477-45cd-8a48-2a1dcc273665)
 ![IMG-20250706-WA0017_5]
-![1](https://github.com/user-(https://github.com/user-attachments/assets/3318f3e8-f1fa-45d7-8580-110bb7dfb45f)
+![IMG-20250706-WA0017_4](https://github.com/user-attachments/assets/cd787ec0-66b9-423f-9726-bb45ab9de75b) 
 
  ## Part II – Android Forensics Analysis and Reporting
 
