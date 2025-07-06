@@ -8,9 +8,12 @@ Building a Virtual Cybersecurity Laboratory and Conducting Android Forensics Inv
 
 [Project Scope](Project-Scope)
 
-[Part I – Virtual Cybersecurity Lab Setup](Part-I–Virtual- Cybersecurity-Lab-Setup)
+[Part I – Virtual Cybersecurity Lab Setup](Part-I–Virtual-Cybersecurity-Lab-Setup)
 
-[Part II – Android Forensics Analysis and Reporting](Part II – Android-Forensics-Analysis-and-Reporting)
+[Part II – Android Forensics Analysis and Reporting](Part-II–Android-Forensics-Analysis-and-Reporting)
+
+[Part III – Virtual Firewall Implementation](Part-III–Virtual-Firewall-Implementation)
+
 
 
 
