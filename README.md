@@ -36,6 +36,8 @@ The following files were downloaded
 7. OPNsense iso
 8. Pfsense iso
 
+   See Screenshots below
+
 ## PROJECT SCOPE
 
 ## Part I – Virtual Cybersecurity Lab Setup
