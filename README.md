@@ -77,9 +77,6 @@ Connectivity was tested by pinging the ip addresses of each guest operating syst
 
 see screenshots below 
 ![IMG_20250626_202340_13](https://github.com/user-attachments/assets/8af3a4f3-80d4-4d94-babb-3559bd1d229d)
-![1](https://github.com/user-attachments/assets/58c6a7b9-0821-4330-8788-48f8fafe8d95)
-![Screenshot_20250706-205440_1](https://github.com/user-attachments/assets/de42fd95-9477-45cd-8a48-2a1dcc273665)
-![IMG-20250706-WA0017_5](https://github.com/user-attachments/assets/3318f3e8-f1fa-45d7-8580-110bb7dfb45f)
  ![IMG-20250706-WA0017_4](https://github.com/user-attachments/assets/cd787ec0-66b9-423f-9726-bb45ab9de75b) 
  ![1](https://github.com/user-attachments/assets/103420fa-1e96-4a3c-96ae-b8641fe149d9)
 ![2](https://github.com/user-attachments/assets/e495adec-ba14-4542-8872-7e965df41b4e)
@@ -94,6 +91,10 @@ see screenshots below
 ![9](https://github.com/user-attachments/assets/5dcde54e-ca95-45fa-82af-c80653e9ba0c)
 ![10](https://github.com/user-attachments/assets/66df4b3c-6393-428f-b300-9b374f6c09fa)
 ![11](https://github.com/user-attachments/assets/54f8e78c-8945-4635-80f8-af8ec10cce34)
+attachments/assets/58c6a7b9-0821-4330-8788-48f8fafe8d95)
+![Screenshot_20250706-205440_1](https://github.com/user-attachments/assets/de42fd95-9477-45cd-8a48-2a1dcc273665)
+![IMG-20250706-WA0017_5]
+![1](https://github.com/user-(https://github.com/user-attachments/assets/3318f3e8-f1fa-45d7-8580-110bb7dfb45f)
 
  ## Part II – Android Forensics Analysis and Reporting
 
