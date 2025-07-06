@@ -1,4 +1,4 @@
-# Building-a-Virtual-Cybersecurity-Laboratory
+.# Building-a-Virtual-Cybersecurity-Laboratory
 Building a Virtual Cybersecurity Laboratory and Conducting Android Forensics Investigations
 
 ## Table of Contents
@@ -29,7 +29,8 @@ The following files were downloaded
 3. Vmware workstation 
 4. Autopsy 
 5. 7zip
-6. Android image provided 
+6. Android image provided
+7. OPNsense Iso
 
 VMware 17 Workstation was downloaded and installed.
 Two virtual machines were created
