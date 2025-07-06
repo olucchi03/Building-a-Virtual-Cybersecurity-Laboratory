@@ -54,26 +54,19 @@ Resources Provided:
 
 Android forensic image file (.zip or .img) containing mock digital evidence
 
-Forensic tools (e.g., Autopsy)
-Tasks:
+Forensic tools used -  Autopsy
 
-Conduct forensic analysis of the Android image:
+Forensic analysis of the Android image provided was conducted using Autopsy on the Windows 10 VM
 
-Extract and document:
+The following were extracted and documented:
 
 SMS messages, call logs, contact lists
 
 Application usage history
 
 Files, images, browser history, crypto wallets, deleted content
-Generate a comprehensive Forensics
-Investigation Report including:
 
-Methodology and tools used
-
-Screenshots and findings
-
-Conclusion and professional recommendations
+Please see attached.pdf file for the comprehensive report.
 
 ## Part III – Virtual Firewall Implementation
 
