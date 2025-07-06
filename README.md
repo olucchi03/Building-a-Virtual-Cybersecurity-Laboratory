@@ -48,13 +48,7 @@ The following files were downloaded
 ![Screenshot_20250703-111730](https://github.com/user-attachments/assets/53e0f416-72a4-4267-99c5-11566bfcd06c)
 ![Screenshot_20250706-201132](https://github.com/user-attachments/assets/e7ea5a91-7988-4c66-8658-8b5e76e8facc)
 ![Screenshot_20250706-164249](https://github.com/user-attachments/assets/1bb1ebd7-5e27-489b-a596-59967c31655f)
-
-
-
-
-
-
-
+![Screenshot_20250706-222940](https://github.com/user-attachments/assets/0afd24e4-b7c3-415f-81eb-7465eefd9a57)
 
 ## PROJECT SCOPE
 
