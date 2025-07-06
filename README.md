@@ -1,7 +1,23 @@
-.# Building-a-Virtual-Cybersecurity-Laboratory
+#  Building-a-Virtual-Cybersecurity-Laboratory
+
 Building a Virtual Cybersecurity Laboratory and Conducting Android Forensics Investigations
 
 ## Table of Contents
+### 
+[Project Expectation](Project-Expectation)
+
+[Project Scope](Project-Scope)
+
+[Part I – Virtual Cybersecurity Lab Setup](Part-I–Virtual- Cybersecurity-Lab-Setup)
+
+[Part II – Android Forensics Analysis and Reporting](Part II – Android-Forensics-Analysis-and-Reporting)
+
+
+
+
+
+
+
 
 ## Project Expectation
 I. Set up a fully functional virtual cybersecurity lab
@@ -11,7 +27,8 @@ II. Analyze an Android forensic image and produce a professional investigation r
 III Deploy a virtual firewall to simulate an enterprise-grade network security Environment.
 
 ## PROJECT SCOPE
-Part I – Virtual Cybersecurity Lab Setup
+
+## Part I – Virtual Cybersecurity Lab Setup
 
 Objective:
 
