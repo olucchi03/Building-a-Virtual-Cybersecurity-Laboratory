@@ -84,13 +84,15 @@ see screenshots below
 ![Screenshot_20250706-205440_1](https://github.com/user-attachments/assets/de42fd95-9477-45cd-8a48-2a1dcc273665)
 
 ![IMG-20250706-WA0017_5](https://github.com/user-attachments/assets/3318f3e8-f1fa-45d7-8580-110bb7dfb45f)
-
-
-## Part II – Android Forensics Analysis and Reporting
+ ![IMG-20250706-WA0017_4](https://github.com/user-attachments/assets/cd787ec0-66b9-423f-9726-bb45ab9de75b) 
+ 
+ 
+ ## Part II – Android Forensics Analysis and Reporting
 
 Objective:
 
-To analyze a provided Android forensic image ![IMG-20250706-WA0017_4](https://github.com/user-attachments/assets/cd787ec0-66b9-423f-9726-bb45ab9de75b) compile a formal digital investigation report.
+To analyze a provided Android forensic image
+ compile a formal digital investigation report.
 Resources Provided:
 
 Android forensic image file (.zip or .img) containing mock digital evidence
@@ -106,9 +108,6 @@ SMS messages, call logs, contact lists
 Application usage history
 
 Files, images, browser history, crypto wallets, deleted content
-see screenshots below 
-
-
 
 Please see attached.pdf file for the comprehensive report.
 
