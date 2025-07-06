@@ -1,6 +1,8 @@
 # Building-a-Virtual-Cybersecurity-Laboratory
 Building a Virtual Cybersecurity Laboratory and Conducting Android Forensics Investigations
 
+## Table of Contents
+
 ## Project Expectation
 I. Set up a fully functional virtual cybersecurity lab
 II. Analyze an Android forensic image and produce a professional investigation report
@@ -14,6 +16,7 @@ To simulate a secure, real-world environment for offensive and defensive securit
 ## Activities:
 
 Virtualization was enabled from the BIOS settings of the Host system (Main System Running on Windows 10 Enterprise Version. Hyper V features was also enabled on the windows settings on the Host machine.
+Processor (Host Machine): Core i5
 
 ### Downloaded Files/Tools
 The following files were downloaded 
@@ -27,14 +30,16 @@ The following files were downloaded
 VMware 17 Workstation was downloaded and installed.
 Two virtual machines were created
 (a) Kali Linux (attacker environment)
+RAM: 2 GB
+Storage: 20 GB
+
 (b) Microsoft Windows 10 64 bit  (target environment)
+RAM: 2 GB
+Storage: 60 GB
+
 Internal virtual networking between VMs was established by assigning local Ip addresses to each vm.
 Connectivity was tested by pinging the ip addresses of each guest operating system from both VMS.
-Minimum System Specifications (per VM):
-RAM: 2 GB (minimum)
-Storage: 20 GB
-Processor: Dual-core or higher
-Note: BIOS-level virtualization must be enabled for optimal performance.
+
 Part II – Android Forensics Analysis and Reporting
 Objective:
 To analyze a provided Android forensic image and compile a formal digital investigation report.
