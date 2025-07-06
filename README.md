@@ -12,7 +12,17 @@ Objective:
 To simulate a secure, real-world environment for offensive and defensive security testing through virtual machines.
 
 ## Activities:
+
 Virtualization was enabled from the BIOS settings of the Host system (Main System Running on Windows 10 Enterprise Version. Hyper V features was also enabled on the windows settings on the Host machine.
+
+### Downloaded Files/Tools
+The following files were downloaded 
+1. Kali iso file 
+2. Window 10 iso 
+3. Vmware workstation 
+4. Autopsy 
+5. 7zip
+6. Android image provided 
 
 VMware 17 Workstation was downloaded and installed.
 Two virtual machines were created
