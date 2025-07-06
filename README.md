@@ -6,6 +6,8 @@ Building a Virtual Cybersecurity Laboratory and Conducting Android Forensics Inv
 ### 
 [Project Expectation](Project-Expectation)
 
+[Downloaded Files and Tools](Downloaded-Files-and-Tools)
+
 [Project Scope](Project-Scope)
 
 [Part I – Virtual Cybersecurity Lab Setup](Part-I–Virtual-Cybersecurity-Lab-Setup)
@@ -14,20 +16,25 @@ Building a Virtual Cybersecurity Laboratory and Conducting Android Forensics Inv
 
 [Part III – Virtual Firewall Implementation](Part-III–Virtual-Firewall-Implementation)
 
-
-
-
-
-
-
-
-
 ## Project Expectation
 I. Set up a fully functional virtual cybersecurity lab
 
 II. Analyze an Android forensic image and produce a professional investigation report
 
 III Deploy a virtual firewall to simulate an enterprise-grade network security Environment.
+
+
+### Downloaded Files/Tools
+
+The following files were downloaded 
+1. Kali iso file 
+2. Window 10 iso 
+3. Vmware workstation 
+4. Autopsy 
+5. 7zip
+6. Android image provided
+7. OPNsense iso
+8. Pfsense iso
 
 ## PROJECT SCOPE
 
@@ -41,17 +48,6 @@ To simulate a secure, real-world environment for offensive and defensive securit
 
 Virtualization was enabled from the BIOS settings of the Host system (Main System Running on Windows 10 Enterprise Version. Hyper V features was also enabled on the windows settings on the Host machine.
 Processor (Host Machine): Core i5
-
-### Downloaded Files/Tools
-The following files were downloaded 
-1. Kali iso file 
-2. Window 10 iso 
-3. Vmware workstation 
-4. Autopsy 
-5. 7zip
-6. Android image provided
-7. OPNsense iso
-8. Pfsense iso
 
 VMware 17 Workstation was downloaded and installed.
 Two virtual machines were created
